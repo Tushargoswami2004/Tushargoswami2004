@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm ᴛᴜsʜᴀʀ ɢᴏsᴡᴀᴍɪ</h1>
 <h3 align="center">A passionate computer science student from India</h3>
 
-![image](https://github.com/Tushargoswami2004/Tushargoswami2004/assets/143717562/56e8ca48-fba8-4af9-9f9a-d13734541229)
-
+ ![image](https://github.com/Tushargoswami2004/Tushargoswami2004/assets/143717562/92b5d3b1-3fe5-44e9-ae39-2b1f3deda2b3)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushargoswami2004&label=Profile%20views&color=0e75b6&style=flat" alt="tushargoswami2004" /> </p>
 
