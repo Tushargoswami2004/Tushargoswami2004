@@ -1,3 +1,4 @@
+![logo](https://github.com/Tushargoswami2004/Tushargoswami2004/blob/main/github-header-image%20(2).png)
 <h1 align="center">Hi 👋, I'm ᴛᴜsʜᴀʀ ɢᴏsᴡᴀᴍɪ</h1>
 <h3 align="center">A passionate computer science student from India</h3>
 
